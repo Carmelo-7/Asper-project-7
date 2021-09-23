@@ -231,10 +231,21 @@ font-size: 0.75rem;
 }
 
 @media screen and (max-width:400px){
+
+    nav{
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
+    }
+
     #hero{
         padding-left: 0 !important;
         padding-right: 0 !important;
 
+    }
+
+    #find-us{
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
     }
 
 #cards-container{
